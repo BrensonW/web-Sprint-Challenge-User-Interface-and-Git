@@ -2,7 +2,7 @@
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.
 
-## Instructions
+## Instructions 
 
 **Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
 
@@ -32,15 +32,16 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead
 
-1. If you were to describe semantic HTML to the next cohort of students, what would you say?
+1. If you were to describe semantic HTML to the next cohort of students, what would you say? Semantic HTML is the use of HTML markup code that helps reinforce the meaning of the information that is in webpages than it just defining the look.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
-
+one big difference is block will create a new line where inline won't. Another difference is that inline doesn't make a block around the display like block does.
 3. What are the 4 areas of the box model?
-
+We got margin, padding, content, and the border.
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+The align-items works off of the cross axis so the vertical one and so it would center the box vertically.
 
-5. Explain why git is valuable to a team of developers.
+5. Explain why git is valuable to a team of developers. Git helps to clone and pull from github so that we can work on a project locally instead of remotely.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
